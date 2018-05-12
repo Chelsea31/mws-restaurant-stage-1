@@ -3,6 +3,7 @@
  */
 class DBHelper {
 
+<<<<<<< HEAD
     /**
      * Database URL.
      * Change this to restaurants.json file location on your server.
@@ -11,6 +12,7 @@ class DBHelper {
         const port = 8001// Change this to your server port
         return `http://localhost:${port}/data/restaurants.json`;
     }
+=======
 
     /**
      * Fetch all restaurants.
